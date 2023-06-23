@@ -1,0 +1,16 @@
+.home-background {
+    background-image: url('../assets/home.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    z-index: -1;
+  }
+ 
+  .secDiv{
+    background-color: rgba(0, 0, 0, 0.808);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
